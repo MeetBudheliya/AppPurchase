@@ -1,0 +1,6 @@
+framework module Pods_FirebaseRemoteConfigTests {
+  umbrella header "Pods-FirebaseRemoteConfigTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

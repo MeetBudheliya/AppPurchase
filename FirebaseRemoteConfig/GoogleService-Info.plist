@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>431313381046-08eg4tjft9kdvrrk5ssvis76jh4o2qpt.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.431313381046-08eg4tjft9kdvrrk5ssvis76jh4o2qpt</string>
+    <key>API_KEY</key>
+    <string>AIzaSyBZfhKJ1W3_FlbtWqqOzbFdQDsP_zV76dI</string>
+    <key>GCM_SENDER_ID</key>
+    <string>431313381046</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.meet.FirebaseRemoteConfig</string>
+    <key>PROJECT_ID</key>
+    <string>remoteconfig-a1708</string>
+    <key>STORAGE_BUCKET</key>
+    <string>remoteconfig-a1708.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:431313381046:ios:e48abcf18237d757216817</string>
+</dict>
+</plist>

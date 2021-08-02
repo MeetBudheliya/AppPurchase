@@ -1,0 +1,63 @@
+{
+  "identifier" : "B715B2B1",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "C0B797A8",
+      "localizations" : [
+        {
+          "description" : "Remove Adds from your app",
+          "displayName" : "Remove Add",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.removeads",
+      "referenceName" : "RemoveAdd",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "291ADEDC",
+      "localizations" : [
+        {
+          "description" : "Unlock Everthing from your app",
+          "displayName" : "Unlock Everthing",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.unlockeverthing",
+      "referenceName" : "Unlock all",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E87293D3",
+      "localizations" : [
+        {
+          "description" : "Get Gems in your account",
+          "displayName" : "Get Gems",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.getgems",
+      "referenceName" : "Get Gems",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
